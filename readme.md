@@ -20,3 +20,9 @@ Information:
 * Full documentation: https://wiki.freepascal.org/CudaText
 * Plugin API documentation: https://wiki.freepascal.org/CudaText_API
 * How to compile (Wiki topic): https://wiki.freepascal.org/CudaText#How_to_compile_CudaText
+
+dfdfgdfg
+fdgdfgf
+fdgfg
+fdgfdgfdgfdgfdgfdgfd
+fdgffdgfg
